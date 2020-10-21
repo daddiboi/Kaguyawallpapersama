@@ -8,26 +8,13 @@
     android:background="@drawable/shape_2"
     tools:context=".privacypolicy">
 
-    <Button
-        android:id="@+id/button1"
-        android:layout_width="60dp"
-        android:layout_height="66dp"
-        android:shadowColor="#168FEC"
-        android:backgroundTint="@color/colorAccent"
-        android:shadowDx="10"
-        android:shadowDy="10"
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
         android:background="@drawable/shape"
-        android:shadowRadius="5"
-        android:text="@string/back"
-        android:textColor="#FFFF36"
-        android:textSize="45sp"
-        android:layout_margin="6dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.019"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.01" />
+        app:srcCompat="@drawable/abc_vector_test" />
 
     <androidx.core.widget.NestedScrollView
         android:layout_width="match_parent"

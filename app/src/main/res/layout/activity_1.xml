@@ -137,10 +137,10 @@
 
     <Button
         android:id="@+id/button"
-        android:layout_width="350dp"
-        android:layout_height="50dp"
+        android:layout_width="370dp"
+        android:layout_height="60dp"
         android:layout_marginStart="25dp"
-        android:layout_marginTop="30dp"
+        android:layout_marginTop="20dp"
         android:backgroundTint="#1aa260"
         android:gravity="center"
         android:text="@string/set_as_wallpaper"

@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:orientation="vertical"
     android:layout_height="match_parent"
-    android:background="@drawable/background"
+    android:background="@drawable/background_g"
     tools:context=".privacypolicy">
 
     <ImageButton
@@ -29,13 +29,11 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="1.0"
         tools:ignore="MissingConstraints,RtlSymmetry">
-
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical"
             tools:ignore="MissingConstraints">
-
             <TextView
                 android:id="@+id/textView"
                 android:layout_width="match_parent"
@@ -75,7 +73,6 @@
                 android:layout_marginTop="30dp"
                 android:text="@string/our_development_group_operates_under_the_name_infinitysenseiofficial_this_page_informs_you_of_our_policies_regarding_the_collection_use_and_disclosure_of_personal_information_we_receive_from_users_of_the_apps_we_use_your_personal_information_only_for_providing_and_improving_the_apps_by_using_our_apps_you_agree_to_the_collection_and_use_of_information_in_accordance_with_this_policy"
                 android:textSize="17sp"
-                android:textColor="#FFA100"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.484"
                 app:layout_constraintStart_toStartOf="parent"
@@ -84,7 +81,6 @@
             <TextView
                 android:id="@+id/textView4"
                 android:layout_width="match_parent"
-                android:textColor="#FFA100"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
                 android:text="@string/phone_stats_to_track_your_progress_in_our_apps_games_specifically_and_witch_levels_to_lock_and_unlock_we_need_permission_to_read_phone_stats_android_permission_read_phone_state_no_change_can_be_done_to_your_personal_data_no_access_can_be_granted_or_demanded_to_acceess_your_personal_data"
@@ -114,7 +110,6 @@
                 android:layout_width="match_parent"
                 android:layout_height="68dp"
                 android:layout_marginTop="10dp"
-                android:textColor="#FF4800"
                 android:text="@string/email_sahilpreet907_gmail_com"
                 android:textSize="18sp"
                 app:layout_constraintBottom_toBottomOf="parent"

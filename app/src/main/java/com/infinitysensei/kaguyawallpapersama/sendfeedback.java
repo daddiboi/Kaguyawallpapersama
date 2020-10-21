@@ -7,10 +7,11 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageButton;
 import android.widget.Toast;
 
 public class sendfeedback extends AppCompatActivity {
-    Button button1;
+    ImageButton button1;
     EditText recipient, subject, body;
     String emailAddress, emailSubject, emailBody;
     Button sendEmailButton;
@@ -21,7 +22,7 @@ public class sendfeedback extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sendfeedback);
-        button1=(Button)findViewById(R.id.button1);
+        button1=(ImageButton)findViewById(R.id.button1);
         button1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

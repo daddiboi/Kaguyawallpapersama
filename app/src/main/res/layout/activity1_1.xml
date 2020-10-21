@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DDDDDD"
+    tools:context=".Activity1_1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="205dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/w1"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginTop="40dp"
+                android:contentDescription="@string/wallpaper"
+                app:srcCompat="@drawable/w1" />
+
+            <Button
+                android:id="@+id/b1"
+                android:layout_width="177dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:backgroundTint="#1aa260"
+                android:text="@string/wallpaper"
+                android:textColor="#FFFFFF" />
+
+
+            <ImageView
+                android:id="@+id/w2"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginTop="20dp"
+                android:contentDescription="@string/wallpaper"
+                app:srcCompat="@drawable/w2" />
+
+            <Button
+                android:id="@+id/set2"
+                android:layout_width="177dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:backgroundTint="#1aa260"
+                android:text="@string/wallpaper"
+                android:textColor="#FFFFFF" />
+
+            <ImageView
+                android:id="@+id/w3"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginTop="20dp"
+                android:contentDescription="@string/wallpaper"
+                app:srcCompat="@drawable/w3" />
+
+            <Button
+                android:id="@+id/b3"
+                android:layout_width="177dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:backgroundTint="#1aa260"
+                android:text="@string/wallpaper"
+                android:textColor="#FFFFFF" />
+
+            <ImageView
+                android:id="@+id/w4"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginTop="20dp"
+                android:contentDescription="@string/wallpaper"
+                app:srcCompat="@drawable/w4" />
+
+            <Button
+                android:id="@+id/b4"
+                android:layout_width="177dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:backgroundTint="#1aa260"
+                android:text="@string/wallpaper"
+                android:textColor="#FFFFFF" />
+
+            <ImageView
+                android:id="@+id/w5"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginTop="20dp"
+                android:contentDescription="@string/wallpaper"
+                app:srcCompat="@drawable/w5" />
+
+            <Button
+                android:id="@+id/b5"
+                android:layout_width="177dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:backgroundTint="#1aa260"
+                android:text="@string/wallpaper"
+                android:textColor="#FFFFFF" />
+
+            <ImageView
+                android:id="@+id/w6"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginTop="20dp"
+                android:contentDescription="@string/wallpaper"
+                app:srcCompat="@drawable/w6" />
+
+            <Button
+                android:id="@+id/b6"
+                android:layout_width="177dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:backgroundTint="#1aa260"
+                android:text="@string/wallpaper"
+                android:textColor="#FFFFFF" />
+
+            <ImageView
+                android:id="@+id/w7"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginTop="20dp"
+                android:contentDescription="@string/wallpaper"
+                app:srcCompat="@drawable/w7" />
+
+            <Button
+                android:id="@+id/b7"
+                android:layout_width="177dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:backgroundTint="#1aa260"
+                android:text="@string/wallpaper"
+                android:textColor="#FFFFFF" />
+
+            <ImageView
+                android:id="@+id/w8"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginTop="20dp"
+                android:contentDescription="@string/wallpaper"
+                app:srcCompat="@drawable/w8" />
+
+            <Button
+                android:id="@+id/b8"
+                android:layout_width="177dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:backgroundTint="#1aa260"
+                android:text="@string/wallpaper"
+                android:textColor="#FFFFFF" />
+
+            <ImageView
+                android:id="@+id/w9"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginTop="20dp"
+                android:contentDescription="@string/wallpaper"
+                app:srcCompat="@drawable/w9" />
+
+            <Button
+                android:id="@+id/b9"
+                android:layout_width="177dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:backgroundTint="#1aa260"
+                android:text="@string/wallpaper"
+                android:textColor="#FFFFFF" />
+
+            <ImageView
+                android:id="@+id/w10"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginTop="20dp"
+                android:contentDescription="@string/wallpaper"
+                app:srcCompat="@drawable/w10" />
+
+            <Button
+                android:id="@+id/b10"
+                android:layout_width="177dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:backgroundTint="#1aa260"
+                android:text="@string/wallpaper"
+                android:textColor="#FFFFFF" />
+
+            <ImageView
+                android:id="@+id/w11"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginTop="20dp"
+                android:contentDescription="@string/wallpaper"
+                app:srcCompat="@drawable/w11" />
+
+            <Button
+                android:id="@+id/b11"
+                android:layout_width="177dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:backgroundTint="#1aa260"
+                android:text="@string/wallpaper"
+                android:textColor="#FFFFFF" />
+
+            <ImageView
+                android:id="@+id/w12"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginTop="20dp"
+                android:contentDescription="@string/wallpaper"
+                app:srcCompat="@drawable/w12" />
+
+            <Button
+                android:id="@+id/b12"
+                android:layout_width="177dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:backgroundTint="#1aa260"
+                android:text="@string/wallpaper"
+                android:textColor="#FFFFFF" />
+
+            <ImageView
+                android:id="@+id/w13"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginTop="20dp"
+                android:contentDescription="@string/wallpaper"
+                app:srcCompat="@drawable/w13" />
+
+            <Button
+                android:id="@+id/b13"
+                android:layout_width="177dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:backgroundTint="#1aa260"
+                android:text="@string/wallpaper"
+                android:textColor="#FFFFFF" />
+
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="205dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+
+            >
+
+            <ImageView
+                android:id="@+id/w14"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginTop="40dp"
+                android:contentDescription="@string/wallpaper"
+                app:srcCompat="@drawable/w14" />
+
+            <Button
+                android:id="@+id/b14"
+                android:layout_width="177dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:backgroundTint="#1aa260"
+                android:text="@string/wallpaper"
+                android:textColor="#FFFFFF" />
+
+            <ImageView
+                android:id="@+id/w15"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginTop="20dp"
+                android:contentDescription="@string/wallpaper"
+                app:srcCompat="@drawable/w15" />
+
+            <Button
+                android:id="@+id/b15"
+                android:layout_width="177dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:backgroundTint="#1aa260"
+                android:text="@string/wallpaper"
+                android:textColor="#FFFFFF" />
+
+            <ImageView
+                android:id="@+id/w16"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginTop="20dp"
+                android:contentDescription="@string/wallpaper"
+                app:srcCompat="@drawable/w16" />
+
+            <Button
+                android:id="@+id/b16"
+                android:layout_width="177dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:backgroundTint="#1aa260"
+                android:text="@string/wallpaper"
+                android:textColor="#FFFFFF" />
+
+            <ImageView
+                android:id="@+id/w17"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginTop="20dp"
+                android:contentDescription="@string/wallpaper"
+                app:srcCompat="@drawable/w17" />
+
+            <Button
+                android:id="@+id/b17"
+                android:layout_width="177dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:backgroundTint="#1aa260"
+                android:text="@string/wallpaper"
+                android:textColor="#FFFFFF" />
+
+            <ImageView
+                android:id="@+id/w18"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginTop="20dp"
+                android:contentDescription="@string/wallpaper"
+                app:srcCompat="@drawable/w18" />
+
+            <Button
+                android:id="@+id/b18"
+                android:layout_width="177dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:backgroundTint="#1aa260"
+                android:text="@string/wallpaper"
+                android:textColor="#FFFFFF" />
+
+            <ImageView
+                android:id="@+id/w19"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginTop="20dp"
+                android:contentDescription="@string/wallpaper"
+                app:srcCompat="@drawable/w19" />
+
+            <Button
+                android:id="@+id/b19"
+                android:layout_width="177dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:backgroundTint="#1aa260"
+                android:text="@string/wallpaper"
+                android:textColor="#FFFFFF" />
+
+            <ImageView
+                android:id="@+id/w20"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginTop="20dp"
+                android:contentDescription="@string/wallpaper"
+                app:srcCompat="@drawable/w20" />
+
+            <Button
+                android:id="@+id/b20"
+                android:layout_width="177dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:backgroundTint="#1aa260"
+                android:text="@string/wallpaper"
+                android:textColor="#FFFFFF" />
+
+            <ImageView
+                android:id="@+id/w21"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginTop="20dp"
+                android:contentDescription="@string/wallpaper"
+                app:srcCompat="@drawable/w21" />
+
+            <Button
+                android:id="@+id/b21"
+                android:layout_width="177dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:backgroundTint="#1aa260"
+                android:text="@string/wallpaper"
+                android:textColor="#FFFFFF" />
+
+            <ImageView
+                android:id="@+id/w22"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginTop="20dp"
+                android:contentDescription="@string/wallpaper"
+                app:srcCompat="@drawable/w22" />
+
+            <Button
+                android:id="@+id/b22"
+                android:layout_width="177dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:backgroundTint="#1aa260"
+                android:text="@string/wallpaper"
+                android:textColor="#FFFFFF" />
+
+            <ImageView
+                android:id="@+id/w23"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginTop="20dp"
+                android:contentDescription="@string/wallpaper"
+                app:srcCompat="@drawable/w23" />
+
+            <Button
+                android:id="@+id/b23"
+                android:layout_width="177dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:backgroundTint="#1aa260"
+                android:text="@string/wallpaper"
+                android:textColor="#FFFFFF" />
+
+            <ImageView
+                android:id="@+id/w24"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginTop="20dp"
+                android:contentDescription="@string/wallpaper"
+                app:srcCompat="@drawable/w24" />
+
+            <Button
+                android:id="@+id/b24"
+                android:layout_width="177dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:backgroundTint="#1aa260"
+                android:text="@string/wallpaper"
+                android:textColor="#FFFFFF" />
+
+            <ImageView
+                android:id="@+id/w25"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginTop="20dp"
+                android:contentDescription="@string/wallpaper"
+                app:srcCompat="@drawable/w25" />
+
+            <Button
+                android:id="@+id/b25"
+                android:layout_width="177dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:backgroundTint="#1aa260"
+                android:text="@string/wallpaper"
+                android:textColor="#FFFFFF" />
+
+
+        </LinearLayout>
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

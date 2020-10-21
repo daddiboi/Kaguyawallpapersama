@@ -16,4 +16,5 @@
     <string name="enter_a_subject">enter a subject</string>
     <string name="type_in_your_message">type in your message</string>
     <string name="send_mail">send mail</string>
+    <string name="todo">TODO</string>
 </resources>

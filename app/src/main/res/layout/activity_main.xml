@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#D900FF"
+    android:background="#0FF00FFC"
     tools:context=".MainActivity">
 
     <Button
@@ -12,9 +12,9 @@
 
         android:layout_width="154dp"
         android:layout_height="143dp"
-        android:background="@drawable/button_ui"
 
-        android:shadowColor="#797EA8"
+        android:background="@drawable/button_ui"
+        android:shadowColor="#FF0000"
         android:shadowDx="4"
         android:shadowDy="3"
         android:shadowRadius="5"
@@ -33,9 +33,10 @@
 
         android:layout_width="154dp"
         android:layout_height="143dp"
-        android:background="@drawable/button_ui"
+        android:layout_marginStart="30dp"
 
-        android:shadowColor="#797EA8"
+        android:background="@drawable/button_ui"
+        android:shadowColor="#FF0000"
         android:shadowDx="4"
         android:shadowDy="3"
         android:shadowRadius="5"
@@ -47,7 +48,7 @@
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toEndOf="@+id/set1"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.865" />
+        app:layout_constraintVertical_bias="0.862" />
 
     <Button
         android:id="@+id/set4"
@@ -56,7 +57,7 @@
         android:layout_height="143dp"
         android:background="@drawable/button_ui"
 
-        android:shadowColor="#797EA8"
+        android:shadowColor="#FF0000"
         android:shadowDx="4"
         android:shadowDy="3"
         android:shadowRadius="5"
@@ -65,8 +66,8 @@
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="@+id/set3"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.866"
-        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintHorizontal_bias="0.594"
+        app:layout_constraintStart_toEndOf="@+id/set3"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="1.0" />
 
@@ -77,7 +78,7 @@
         android:layout_height="143dp"
         android:background="@drawable/button_ui"
 
-        android:shadowColor="#797EA8"
+        android:shadowColor="#FF0000"
         android:shadowDx="4"
         android:shadowDy="3"
         android:shadowRadius="5"
@@ -90,6 +91,19 @@
         app:layout_constraintStart_toStartOf="@+id/set1"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.753" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="303dp"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:layout_constraintHeight_percent="0.50"
+        app:srcCompat="@drawable/mainwallpaper" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

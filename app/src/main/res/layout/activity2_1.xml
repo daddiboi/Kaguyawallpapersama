@@ -13,7 +13,7 @@
         android:orientation="horizontal">
 
         <LinearLayout
-            android:layout_width="205dp"
+            android:layout_width="190dp"
             android:layout_height="match_parent"
             android:orientation="vertical">
 
@@ -22,6 +22,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="300dp"
                 android:layout_marginTop="40dp"
+
                 android:contentDescription="@string/wallpaper"
                 app:srcCompat="@drawable/w26" />
 
@@ -29,9 +30,9 @@
                 android:id="@+id/b26"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
-                android:layout_marginStart="15dp"
                 android:textColor="#FFFFFF" />
 
             <ImageView
@@ -46,9 +47,9 @@
                 android:id="@+id/b27"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
-                android:layout_marginStart="15dp"
                 android:textColor="#FFFFFF" />
 
             <ImageView
@@ -63,9 +64,9 @@
                 android:id="@+id/b28"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
-                android:layout_marginStart="15dp"
                 android:textColor="#FFFFFF" />
 
             <ImageView
@@ -80,9 +81,9 @@
                 android:id="@+id/b29"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
-                android:layout_marginStart="15dp"
                 android:textColor="#FFFFFF" />
 
             <ImageView
@@ -97,9 +98,9 @@
                 android:id="@+id/b30"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
-                android:layout_marginStart="15dp"
                 android:textColor="#FFFFFF" />
 
             <ImageView
@@ -114,9 +115,9 @@
                 android:id="@+id/b31"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
-                android:layout_marginStart="15dp"
                 android:textColor="#FFFFFF" />
 
             <ImageView
@@ -131,9 +132,9 @@
                 android:id="@+id/b32"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
-                android:layout_marginStart="15dp"
                 android:textColor="#FFFFFF" />
 
             <ImageView
@@ -148,9 +149,9 @@
                 android:id="@+id/b33"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
-                android:layout_marginStart="15dp"
                 android:textColor="#FFFFFF" />
 
             <ImageView
@@ -165,9 +166,9 @@
                 android:id="@+id/b34"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
-                android:layout_marginStart="15dp"
                 android:textColor="#FFFFFF" />
 
             <ImageView
@@ -182,9 +183,9 @@
                 android:id="@+id/b35"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
-                android:layout_marginStart="15dp"
                 android:textColor="#FFFFFF" />
 
             <ImageView
@@ -199,9 +200,9 @@
                 android:id="@+id/b36"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
-                android:layout_marginStart="15dp"
                 android:textColor="#FFFFFF" />
 
             <ImageView
@@ -216,9 +217,9 @@
                 android:id="@+id/b37"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
-                android:layout_marginStart="15dp"
                 android:textColor="#FFFFFF" />
 
             <ImageView
@@ -233,10 +234,10 @@
                 android:id="@+id/b38"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
-                android:textColor="#FFFFFF"
-                android:layout_marginStart="15dp"/>
+                android:textColor="#FFFFFF" />
 
 
         </LinearLayout>
@@ -255,6 +256,7 @@
                 android:layout_width="176dp"
                 android:layout_height="300dp"
                 android:layout_marginTop="40dp"
+                android:layout_marginLeft="5dp"
                 android:contentDescription="@string/wallpaper"
                 app:srcCompat="@drawable/w39" />
 

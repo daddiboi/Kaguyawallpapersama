@@ -47,7 +47,7 @@
                 android:id="@+id/b27"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
+                android:layout_marginStart="7dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
@@ -64,7 +64,7 @@
                 android:id="@+id/b28"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
+                android:layout_marginStart="7dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
@@ -81,7 +81,7 @@
                 android:id="@+id/b29"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
+                android:layout_marginStart="7dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
@@ -98,7 +98,7 @@
                 android:id="@+id/b30"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
+                android:layout_marginStart="7dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
@@ -115,7 +115,7 @@
                 android:id="@+id/b31"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
+                android:layout_marginStart="7dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
@@ -132,7 +132,7 @@
                 android:id="@+id/b32"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
+                android:layout_marginStart="7dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
@@ -149,7 +149,7 @@
                 android:id="@+id/b33"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
+                android:layout_marginStart="7dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
@@ -166,7 +166,7 @@
                 android:id="@+id/b34"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
+                android:layout_marginStart="7dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
@@ -183,7 +183,7 @@
                 android:id="@+id/b35"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
+                android:layout_marginStart="7dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
@@ -200,7 +200,7 @@
                 android:id="@+id/b36"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
+                android:layout_marginStart="7dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
@@ -217,7 +217,7 @@
                 android:id="@+id/b37"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
+                android:layout_marginStart="7dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
@@ -234,7 +234,7 @@
                 android:id="@+id/b38"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
+                android:layout_marginStart="7dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />

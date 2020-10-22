@@ -15,7 +15,7 @@
         android:maxHeight="180dp"
         android:contentDescription="@string/todo"
         android:scaleType="centerCrop"
-        android:src="@drawable/w12" />
+        android:src="@drawable/w1" />
 
     <TextView
         android:id="@+id/textView2"

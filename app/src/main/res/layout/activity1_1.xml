@@ -13,7 +13,7 @@
         android:orientation="horizontal">
 
         <LinearLayout
-            android:layout_width="205dp"
+            android:layout_width="190dp"
             android:layout_height="match_parent"
             android:orientation="vertical">
 
@@ -29,7 +29,7 @@
                 android:id="@+id/b1"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
+                android:layout_marginStart="7dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
@@ -47,7 +47,7 @@
                 android:id="@+id/b2"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
+                android:layout_marginStart="7dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
@@ -64,7 +64,7 @@
                 android:id="@+id/b3"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
+                android:layout_marginStart="7dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
@@ -81,7 +81,7 @@
                 android:id="@+id/b4"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
+                android:layout_marginStart="7dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
@@ -98,7 +98,7 @@
                 android:id="@+id/b5"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
+                android:layout_marginStart="7dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
@@ -115,7 +115,7 @@
                 android:id="@+id/b6"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
+                android:layout_marginStart="7dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
@@ -132,7 +132,7 @@
                 android:id="@+id/b7"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
+                android:layout_marginStart="7dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
@@ -149,7 +149,7 @@
                 android:id="@+id/b8"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
+                android:layout_marginStart="7dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
@@ -166,7 +166,7 @@
                 android:id="@+id/b9"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
+                android:layout_marginStart="7dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
@@ -183,7 +183,7 @@
                 android:id="@+id/b10"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
+                android:layout_marginStart="7dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
@@ -200,7 +200,7 @@
                 android:id="@+id/b11"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
+                android:layout_marginStart="7dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
@@ -217,7 +217,7 @@
                 android:id="@+id/b12"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
+                android:layout_marginStart="7dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
@@ -234,7 +234,7 @@
                 android:id="@+id/b13"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
+                android:layout_marginStart="7dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
@@ -253,7 +253,7 @@
 
             <ImageView
                 android:id="@+id/w14"
-                android:layout_width="match_parent"
+                android:layout_width="176dp"
                 android:layout_height="300dp"
                 android:layout_marginTop="40dp"
                 android:contentDescription="@string/wallpaper"
@@ -263,14 +263,14 @@
                 android:id="@+id/b14"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
+
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
 
             <ImageView
                 android:id="@+id/w15"
-                android:layout_width="match_parent"
+                android:layout_width="176dp"
                 android:layout_height="300dp"
                 android:layout_marginTop="20dp"
                 android:contentDescription="@string/wallpaper"
@@ -280,14 +280,13 @@
                 android:id="@+id/b15"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
 
             <ImageView
                 android:id="@+id/w16"
-                android:layout_width="match_parent"
+                android:layout_width="176dp"
                 android:layout_height="300dp"
                 android:layout_marginTop="20dp"
                 android:contentDescription="@string/wallpaper"
@@ -297,14 +296,13 @@
                 android:id="@+id/b16"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
 
             <ImageView
                 android:id="@+id/w17"
-                android:layout_width="match_parent"
+                android:layout_width="176dp"
                 android:layout_height="300dp"
                 android:layout_marginTop="20dp"
                 android:contentDescription="@string/wallpaper"
@@ -314,14 +312,13 @@
                 android:id="@+id/b17"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
 
             <ImageView
                 android:id="@+id/w18"
-                android:layout_width="match_parent"
+                android:layout_width="176dp"
                 android:layout_height="300dp"
                 android:layout_marginTop="20dp"
                 android:contentDescription="@string/wallpaper"
@@ -331,14 +328,13 @@
                 android:id="@+id/b18"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
 
             <ImageView
                 android:id="@+id/w19"
-                android:layout_width="match_parent"
+                android:layout_width="176dp"
                 android:layout_height="300dp"
                 android:layout_marginTop="20dp"
                 android:contentDescription="@string/wallpaper"
@@ -348,14 +344,13 @@
                 android:id="@+id/b19"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
 
             <ImageView
                 android:id="@+id/w20"
-                android:layout_width="match_parent"
+                android:layout_width="176dp"
                 android:layout_height="300dp"
                 android:layout_marginTop="20dp"
                 android:contentDescription="@string/wallpaper"
@@ -365,14 +360,13 @@
                 android:id="@+id/b20"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
 
             <ImageView
                 android:id="@+id/w21"
-                android:layout_width="match_parent"
+                android:layout_width="176dp"
                 android:layout_height="300dp"
                 android:layout_marginTop="20dp"
                 android:contentDescription="@string/wallpaper"
@@ -382,14 +376,13 @@
                 android:id="@+id/b21"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
 
             <ImageView
                 android:id="@+id/w22"
-                android:layout_width="match_parent"
+                android:layout_width="176dp"
                 android:layout_height="300dp"
                 android:layout_marginTop="20dp"
                 android:contentDescription="@string/wallpaper"
@@ -399,14 +392,13 @@
                 android:id="@+id/b22"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
 
             <ImageView
                 android:id="@+id/w23"
-                android:layout_width="match_parent"
+                android:layout_width="176dp"
                 android:layout_height="300dp"
                 android:layout_marginTop="20dp"
                 android:contentDescription="@string/wallpaper"
@@ -416,14 +408,13 @@
                 android:id="@+id/b23"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
 
             <ImageView
                 android:id="@+id/w24"
-                android:layout_width="match_parent"
+                android:layout_width="176dp"
                 android:layout_height="300dp"
                 android:layout_marginTop="20dp"
                 android:contentDescription="@string/wallpaper"
@@ -433,14 +424,13 @@
                 android:id="@+id/b24"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />
 
             <ImageView
                 android:id="@+id/w25"
-                android:layout_width="match_parent"
+                android:layout_width="176dp"
                 android:layout_height="300dp"
                 android:layout_marginTop="20dp"
                 android:contentDescription="@string/wallpaper"
@@ -450,7 +440,6 @@
                 android:id="@+id/b25"
                 android:layout_width="177dp"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="15dp"
                 android:backgroundTint="#1aa260"
                 android:text="@string/wallpaper"
                 android:textColor="#FFFFFF" />

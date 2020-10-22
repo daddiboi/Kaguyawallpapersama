@@ -7,8 +7,6 @@
     android:background="#D900FF"
     tools:context=".MainActivity">
 
-    zz
-
     <Button
         android:id="@+id/set1"
 

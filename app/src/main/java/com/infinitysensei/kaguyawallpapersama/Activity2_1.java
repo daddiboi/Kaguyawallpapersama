@@ -6,6 +6,11 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.RelativeLayout;
+
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdSize;
+import com.google.android.gms.ads.AdView;
 
 public class Activity2_1 extends AppCompatActivity {
     Button b26;
@@ -37,6 +42,15 @@ public class Activity2_1 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity2_1);
+        AdView adView = new AdView(this);
+
+        adView.setAdSize(AdSize.BANNER);
+
+        adView.setAdUnitId(getString(R.string.bannerid));
+        RelativeLayout layout=(RelativeLayout)findViewById(R.id.adView);
+        layout.addView(adView);
+        AdRequest adRequest=new AdRequest.Builder().build();
+        adView.loadAd(adRequest);
         b26=findViewById(R.id.b26);
         b27=findViewById(R.id.b27);
         b28=findViewById(R.id.b28);

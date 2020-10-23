@@ -27,4 +27,12 @@
     <string name="creative_commons_license">Creative Commons License ©</string>
     <string name="wallpapertext">Wallpaper</string>
     <string name="back">Back</string>
+    <string name="bannerid">ca-app-pub-3940256099942544/6300978111</string>
+
+
+
+    <!-- banner1 ca-app-pub-3399959546059150/3677568165
+         banner2 ca-app-pub-3399959546059150/1122545251
+         banner3 ca-app-pub-3399959546059150/6793357100
+         test banner ca-app-pub-3940256099942544/6300978111 -->
 </resources>
